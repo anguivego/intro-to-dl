@@ -1,2 +1,2 @@
 # intro-to-dl
-home works for the specialization "Advanced Machine Learning"
+homework for the specialization "Advanced Machine Learning"
